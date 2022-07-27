@@ -1,3 +1,3 @@
 # Kumobako
 
-A cloud store app created with React.
+A cloud store app created with React
